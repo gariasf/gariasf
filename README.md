@@ -8,7 +8,7 @@
 
 ![Profile Views][PROFILE_VIEWS]
 
-[TOP_LANGS]: https://github-readme-stats.vercel.app/api/top-langs/?username=gariasf&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues
+[TOP_LANGS]: https://github-readme-stats.vercel.app/api/top-langs/?username=gariasf&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues&langs_count=10
 
 [GITHUB_STATS]: https://github-readme-stats.vercel.app/api?username=gariasf&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues&hide_border=true&bg_color=0D1117
 
