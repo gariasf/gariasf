@@ -4,6 +4,8 @@
 
 ![GitHub Streak][GITHUB_STREAK]
 
+![TOP_LANGS][TOP_LANGS]
+
 ![Profile Views][PROFILE_VIEWS]
 
 [TOP_LANGS]: https://github-readme-stats.vercel.app/api/top-langs/?username=gariasf&show_icons=true&theme=dark&locale=en&count_private=true&hide=stars,issues
