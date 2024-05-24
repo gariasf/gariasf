@@ -2,8 +2,7 @@
 
 ### Currently
 - Working as a Frontend Engineer
-- Learning Rust
-- Transitioning to Game Development
+- Learning Rust, shaders and how video game engines work.
 - [Reading](https://app.thestorygraph.com/profile/tenraytracedcats)
 
 ### Recently hacking with
