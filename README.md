@@ -4,7 +4,6 @@
 - Working as a Frontend Engineer
 - Learning Rust
 - Transitioning to Game Development
-- Enrolled on a Game Design and Development Bachelor at UNIR
 - [Reading](https://app.thestorygraph.com/profile/tenraytracedcats)
 
 ### Recently hacking with
