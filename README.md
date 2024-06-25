@@ -6,8 +6,17 @@
 - [Reading](https://app.thestorygraph.com/profile/tenraytracedcats)
 
 ### Recently hacking with
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&hide=html,css" height="150" alt="languages graph"  />
+<picture height=200>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&hide=html,css"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&hide=html,css"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&hide=html,css" />
+</picture>
 
 ### Follow me (online)
 <a href="https://x.com/tenraytcats" target="_blank">
