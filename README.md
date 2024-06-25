@@ -6,17 +6,10 @@
 - [Reading](https://app.thestorygraph.com/profile/tenraytracedcats)
 
 ### Recently hacking with
-<picture height=200>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&hide=html,css"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&hide=html,css"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true&hide=html,css" />
-</picture>
+
+[![Guillem's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&hide=html,css&locale=en&layout=compact&card_width=320&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&hide=html,css&locale=en&layout=compact&card_width=320&theme=dark#gh-dark-mode-only)
+[![Guillem's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&hide=html,css&locale=en&layout=compact&card_width=320&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&hide=html,css&locale=en&layout=compact&card_width=320&theme=default#gh-light-mode-only)
+
 
 ### Follow me (online)
 <a href="https://x.com/tenraytcats" target="_blank">
