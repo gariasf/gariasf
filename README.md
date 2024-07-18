@@ -1,15 +1,9 @@
 ## Hi there, nice to meet you!
 
 ### Currently
-- Working as a Frontend Engineer
+- Working as a Software Engineer
 - Learning graphics programming and how video game engines work.
 - [Reading](https://app.thestorygraph.com/profile/tenraytracedcats)
-
-### Recently hacking with (public repositories)
-
-[![Guillem's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&hide=html,css&locale=en&layout=compact&card_width=320&theme=dark#gh-dark-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&hide=html,css&locale=en&layout=compact&card_width=320&theme=dark#gh-dark-mode-only)
-[![Guillem's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&hide=html,css&locale=en&layout=compact&card_width=320&theme=default#gh-light-mode-only)](https://github-readme-stats.vercel.app/api/top-langs?username=gariasf&hide=html,css&locale=en&layout=compact&card_width=320&theme=default#gh-light-mode-only)
-
 
 ### Follow me (online)
 <a href="https://x.com/tenraytcats" target="_blank">
