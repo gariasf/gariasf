@@ -1,7 +1,7 @@
 ## Hi there, nice to meet you!
 
 ### Currently
-- Working as a Software Engineer
+- Software Engineer
 - Learning graphics programming and how video game engines work.
 - [Reading](https://app.thestorygraph.com/profile/tenraytracedcats)
 
