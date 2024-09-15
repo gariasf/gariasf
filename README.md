@@ -2,7 +2,7 @@
 
 ### Currently
 - Software Engineer
-- Learning graphics programming and how video game engines work.
+- Learning graphics programming and how video game engines work
 - [Reading](https://app.thestorygraph.com/profile/tenraytracedcats)
 
 ### Follow me (online)
