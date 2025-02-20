@@ -2,7 +2,7 @@
 
 ### Currently
 - Software Engineer
-- Learning graphics programming and how video game engines work
+- Learning to play the piano
 - [Reading](https://app.thestorygraph.com/profile/tenraytracedcats)
 
 ### Follow me (online)
